@@ -1,6 +1,11 @@
-## Hello there 👋
+## Hello there, eu sou a Sabrina 👋 
 
-Sou estagiaria de desenvolvimento, e apriomorando minhas habilidades na área de Segurança da Informação
+- 💻Atualmente estou trabalhando como estagiaria de desenvolvimento.
+- 🔒Estudando Ciência da Computação, também estou aprimorando meus conhecimentos em Segurança da Informação.
+
+- Adoro criar coisas novas, aprimorar minhas habilidades e tentar melhorar cada dia mais! ✨
+
+
 
 ## Entre em contato comigo:
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:sabrinademeloborges0@gmail.com)](mailto:seuemail@gmail.com)
