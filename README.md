@@ -1,9 +1,6 @@
-## Hello there, eu sou a Sabrina 👋 
-
-- 💻Atualmente estou trabalhando como estagiaria de desenvolvimento.
-- 🔒Estudando Ciência da Computação, também estou aprimorando meus conhecimentos em Segurança da Informação.
-
-- Adoro criar coisas novas, aprimorar minhas habilidades e tentar melhorar cada dia mais! ✨
+## Olá, eu sou a Sabrina! ✨
+Estagiaria de desenvolvimento, comprometida em criar soluções otimizadas, funcionais e criativas.
+Tenho divido meus estudos em aplicações web e em aprimiorar minhas habilidades em Segurança da Informação.
 
 
 
@@ -28,10 +25,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+[![GitHub Pac-Man](https://raw.githubusercontent.com/MaximeHeckel/pacman-canvas/main/assets/github-pacman.png)](https://github.com/MaximeHeckel/pacman-canvas)
 
-###
+
