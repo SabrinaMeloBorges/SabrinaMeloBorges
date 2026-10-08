@@ -29,7 +29,7 @@ $ whoami
 
 | Atributo | Valor |
 |:--|:--|
-| **Classe** | 🛡️ Blue Team |
+| **Classe** | 🛡️ Analista de Segurança |
 | **Main quest** | Fazer segurança ser algo que as pessoas entendem (e praticam) |
 | **Side quests** | Adoro criar aplicações que facilitam |
 | **Itens equipados** | TypeScript · JavaScript · Dart |
