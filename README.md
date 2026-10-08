@@ -9,11 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sabrinademeloborges/"><img src="https://img.shields.io/badge/LinkedIn-Sabrina%20Melo-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://beacons.ai/SabrinaMeloBorges"><img src="https://img.shields.io/badge/Links-beacons-7DD3FC?style=for-the-badge&logo=linktree&logoColor=16132B" alt="Beacons" /></a>
-</p>
-
 ---
 
 ```diff
